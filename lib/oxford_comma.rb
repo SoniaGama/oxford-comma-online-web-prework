@@ -9,6 +9,4 @@ def oxford_comma(array)
   end
     
   # "kiwi, durian, starfruit, mangos, dragon fruits, lychees, and pomelos"
-  #iterar y contar si nos 3 o mas agregar and al final 
-  #"pomelos" -> "pomelos"
 end
